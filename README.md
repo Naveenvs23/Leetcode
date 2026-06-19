@@ -7,4 +7,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0709-to-lower-case](https://github.com/Naveenvs23/Leetcode/tree/main/0709-to-lower-case/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2235-add-two-integers](https://github.com/Naveenvs23/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 <!---LeetCode Topics End-->
