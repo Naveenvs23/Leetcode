@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2235-add-two-integers](https://github.com/Naveenvs23/Leetcode/tree/main/2235-add-two-integers/) | Easy |
+| [2469-convert-the-temperature](https://github.com/Naveenvs23/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
