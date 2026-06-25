@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/Naveenvs23/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/Naveenvs23/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [2235-add-two-integers](https://github.com/Naveenvs23/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Naveenvs23/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
