@@ -39,4 +39,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3028-ant-on-the-boundary](https://github.com/Naveenvs23/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1220-count-vowels-permutation](https://github.com/Naveenvs23/Leetcode/tree/main/1220-count-vowels-permutation/) | Hard |
 <!---LeetCode Topics End-->
