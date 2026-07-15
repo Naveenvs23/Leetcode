@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/Naveenvs23/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Naveenvs23/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Naveenvs23/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Naveenvs23/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2413-smallest-even-multiple](https://github.com/Naveenvs23/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Naveenvs23/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
