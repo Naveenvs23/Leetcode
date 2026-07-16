@@ -8,7 +8,6 @@ var plusOne = function(digits) {
             digits[i]++;
             return digits;
         }
-
         digits[i] = 0;
     }
     digits.unshift(1);
