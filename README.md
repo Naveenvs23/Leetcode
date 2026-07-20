@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Naveenvs23/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/Naveenvs23/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0412-fizz-buzz](https://github.com/Naveenvs23/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Naveenvs23/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Naveenvs23/Leetcode/tree/main/0709-to-lower-case/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Naveenvs23/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naveenvs23/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0014-longest-common-prefix](https://github.com/Naveenvs23/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0066-plus-one](https://github.com/Naveenvs23/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Naveenvs23/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Naveenvs23/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -100,4 +102,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naveenvs23/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Naveenvs23/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
