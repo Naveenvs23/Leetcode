@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Naveenvs23/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0412-fizz-buzz](https://github.com/Naveenvs23/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Naveenvs23/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Naveenvs23/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Naveenvs23/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Naveenvs23/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Naveenvs23/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Naveenvs23/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Naveenvs23/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Naveenvs23/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Naveenvs23/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [3028-ant-on-the-boundary](https://github.com/Naveenvs23/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Naveenvs23/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Naveenvs23/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
