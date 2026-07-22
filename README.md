@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/Naveenvs23/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Naveenvs23/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Naveenvs23/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Naveenvs23/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Naveenvs23/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -41,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naveenvs23/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [3028-ant-on-the-boundary](https://github.com/Naveenvs23/Leetcode/tree/main/3028-ant-on-the-boundary/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Naveenvs23/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Naveenvs23/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Naveenvs23/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Naveenvs23/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Simulation
