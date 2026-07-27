@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Naveenvs23/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/Naveenvs23/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Naveenvs23/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naveenvs23/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Naveenvs23/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Naveenvs23/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Naveenvs23/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naveenvs23/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3467-transform-array-by-parity](https://github.com/Naveenvs23/Leetcode/tree/main/3467-transform-array-by-parity/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Naveenvs23/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Counting
@@ -109,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naveenvs23/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naveenvs23/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
