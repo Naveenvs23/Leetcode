@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Naveenvs23/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Naveenvs23/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1952-three-divisors](https://github.com/Naveenvs23/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Naveenvs23/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Naveenvs23/Leetcode/tree/main/2180-count-integers-with-even-digit-sum/) | Easy |
 | [2235-add-two-integers](https://github.com/Naveenvs23/Leetcode/tree/main/2235-add-two-integers/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Naveenvs23/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Naveenvs23/Leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/Naveenvs23/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/Naveenvs23/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Naveenvs23/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Naveenvs23/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naveenvs23/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 | [2942-find-words-containing-character](https://github.com/Naveenvs23/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
@@ -66,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Naveenvs23/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Naveenvs23/Leetcode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/Naveenvs23/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Naveenvs23/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Prefix Sum
