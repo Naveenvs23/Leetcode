@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2413-smallest-even-multiple](https://github.com/Naveenvs23/Leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Naveenvs23/Leetcode/tree/main/2455-average-value-of-even-numbers-that-are-divisible-by-three/) | Easy |
 | [2469-convert-the-temperature](https://github.com/Naveenvs23/Leetcode/tree/main/2469-convert-the-temperature/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Naveenvs23/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Naveenvs23/Leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Naveenvs23/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Naveenvs23/Leetcode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -135,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1952-three-divisors](https://github.com/Naveenvs23/Leetcode/tree/main/1952-three-divisors/) | Easy |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Naveenvs23/Leetcode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Naveenvs23/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
