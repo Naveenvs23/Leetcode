@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Naveenvs23/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naveenvs23/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0014-longest-common-prefix](https://github.com/Naveenvs23/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Naveenvs23/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0066-plus-one](https://github.com/Naveenvs23/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0136-single-number](https://github.com/Naveenvs23/Leetcode/tree/main/0136-single-number/) | Easy |
 | [1260-shift-2d-grid](https://github.com/Naveenvs23/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Naveenvs23/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Naveenvs23/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
