@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Naveenvs23/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/Naveenvs23/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Naveenvs23/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Naveenvs23/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Naveenvs23/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [1220-count-vowels-permutation](https://github.com/Naveenvs23/Leetcode/tree/main/1220-count-vowels-permutation/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -110,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Naveenvs23/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Naveenvs23/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Naveenvs23/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 ## Breadth-First Search
@@ -148,4 +151,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Naveenvs23/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Naveenvs23/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
