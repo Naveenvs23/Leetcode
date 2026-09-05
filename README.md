@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Naveenvs23/Leetcode/tree/main/3512-minimum-operations-to-make-array-sum-divisible-by-k/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Naveenvs23/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3701-compute-alternating-sum](https://github.com/Naveenvs23/Leetcode/tree/main/3701-compute-alternating-sum/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Naveenvs23/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Naveenvs23/Leetcode/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1260-shift-2d-grid](https://github.com/Naveenvs23/Leetcode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naveenvs23/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Naveenvs23/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -182,4 +184,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Naveenvs23/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Naveenvs23/Leetcode/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 <!---LeetCode Topics End-->
