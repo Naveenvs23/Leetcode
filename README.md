@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Naveenvs23/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Naveenvs23/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Naveenvs23/Leetcode/tree/main/0709-to-lower-case/) | Easy |
+| [0940-distinct-subsequences-ii](https://github.com/Naveenvs23/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [2942-find-words-containing-character](https://github.com/Naveenvs23/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Naveenvs23/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Naveenvs23/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -89,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Naveenvs23/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0940-distinct-subsequences-ii](https://github.com/Naveenvs23/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1220-count-vowels-permutation](https://github.com/Naveenvs23/Leetcode/tree/main/1220-count-vowels-permutation/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
