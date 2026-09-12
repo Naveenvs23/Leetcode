@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/Naveenvs23/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/Naveenvs23/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Naveenvs23/Leetcode/tree/main/0067-add-binary/) | Easy |
+| [0069-sqrtx](https://github.com/Naveenvs23/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0412-fizz-buzz](https://github.com/Naveenvs23/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Naveenvs23/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1952-three-divisors](https://github.com/Naveenvs23/Leetcode/tree/main/1952-three-divisors/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Naveenvs23/Leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Naveenvs23/Leetcode/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Naveenvs23/Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naveenvs23/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -216,4 +218,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naveenvs23/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/Naveenvs23/Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
