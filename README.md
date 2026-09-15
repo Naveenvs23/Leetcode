@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/Naveenvs23/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0709-to-lower-case](https://github.com/Naveenvs23/Leetcode/tree/main/0709-to-lower-case/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Naveenvs23/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naveenvs23/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2942-find-words-containing-character](https://github.com/Naveenvs23/Leetcode/tree/main/2942-find-words-containing-character/) | Easy |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Naveenvs23/Leetcode/tree/main/3499-maximize-active-section-with-trade-i/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Naveenvs23/Leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Naveenvs23/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Naveenvs23/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1220-count-vowels-permutation](https://github.com/Naveenvs23/Leetcode/tree/main/1220-count-vowels-permutation/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naveenvs23/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Naveenvs23/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0088-merge-sorted-array](https://github.com/Naveenvs23/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Naveenvs23/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naveenvs23/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Naveenvs23/Leetcode/tree/main/0069-sqrtx/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naveenvs23/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 <!---LeetCode Topics End-->
