@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Naveenvs23/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Naveenvs23/Leetcode/tree/main/2812-find-the-safest-path-in-a-grid/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -234,4 +235,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Naveenvs23/Leetcode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Naveenvs23/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Naveenvs23/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0101-symmetric-tree](https://github.com/Naveenvs23/Leetcode/tree/main/0101-symmetric-tree/) | Easy |
 <!---LeetCode Topics End-->
