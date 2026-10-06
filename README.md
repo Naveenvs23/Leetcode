@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0066-plus-one](https://github.com/Naveenvs23/Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/Naveenvs23/Leetcode/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/Naveenvs23/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/Naveenvs23/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0412-fizz-buzz](https://github.com/Naveenvs23/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/Naveenvs23/Leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
 | [1952-three-divisors](https://github.com/Naveenvs23/Leetcode/tree/main/1952-three-divisors/) | Easy |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Naveenvs23/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0070-climbing-stairs](https://github.com/Naveenvs23/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Naveenvs23/Leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1220-count-vowels-permutation](https://github.com/Naveenvs23/Leetcode/tree/main/1220-count-vowels-permutation/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Naveenvs23/Leetcode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -270,4 +272,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Naveenvs23/Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Naveenvs23/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
